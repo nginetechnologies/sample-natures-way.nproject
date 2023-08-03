@@ -1,0 +1,31 @@
+{
+    "130a1d22-f3e9-44a8-8b57-e2e963616566": {
+        "assetTypeGuid": "01c2c136-57b4-4a69-b2af-3c2ea94c3f49",
+        "path": "Project.nproject",
+        "name": "Nature's Way",
+        "thumbnail": "1f78c8e3-7cac-99e4-048c-5fd09aa35e44",
+        "tags": [
+            "f5777f96-a43c-4ebd-872a-1eeda5719aaf"
+        ]
+    },
+    "1f78c8e3-7cac-99e4-048c-5fd09aa35e44": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Thumbnail/Nature_Way_Thumb.tex.nasset"
+    },
+    "4a39cb3b-4a5c-41e2-9334-09f41c897d70": {
+        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+        "componentTypeGuid": "2a2bce0a-6314-481b-a5a0-7d01e1c00b35",
+        "path": "Assets/Natures Way.scene.nasset"
+    },
+    "53a898a8-7e76-ec63-d4d9-89e08e76ea7c": {
+        "assetTypeGuid": "77b22fc4-d109-4dd3-a922-38388879fc90",
+        "path": "Assets.nassetdb"
+    },
+    "e3eca1ed-d9a9-4be9-8dd4-b9236ce2dc87": {
+        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "componentTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "path": "Assets/Skybox.mtli.nasset",
+        "thumbnail": "1e71738a-10e5-7160-578f-434ede5c7576"
+    },
+    "guid": "53a898a8-7e76-ec63-d4d9-89e08e76ea7c"
+}

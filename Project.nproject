@@ -1,8 +1,8 @@
 {
-    "name": "Nature's Way'",
+    "name": "Nature's Way",
     "description": "",
     "guid": "130a1d22-f3e9-44a8-8b57-e2e963616566",
-	"database_guid": "",
+	"database_guid": "53a898a8-7e76-ec63-d4d9-89e08e76ea7c",
     "version": "1.0.0",
     "engine": "3ff049e0-0880-4898-879d-1ccf5583c9c6",
     "plugins": [
@@ -13,7 +13,7 @@
     "asset_directory": "Assets",
     "binary_directory": "bin",
     "library_directory": "lib",
-    "thumbnail_guid": "095e94fa-e8de-4b38-ba4a-0bb9a88a0b6a",
+    "thumbnail_guid": "1f78c8e3-7cac-99e4-048c-5fd09aa35e44",
     "default_scene": "4a39cb3b-4a5c-41e2-9334-09f41c897d70",
     "tags": [ "f5777f96-a43c-4ebd-872a-1eeda5719aaf" ],
     "source": "Project.nproject",
