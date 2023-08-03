@@ -1,0 +1,65 @@
+{
+    "guid": "aaef492b-91a8-ad86-2340-83a1850943a1",
+    "source": "../SM_Dead_Trunk.fbx",
+    "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+    "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+    "instanceGuid": "b5769ac9-2191-d1fe-64be-3188b81535ed",
+    "data_components": [
+        {
+            "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+            "name": "SM_Dead_Trunk"
+        },
+        {
+            "typeGuid": "653ee503-f473-47d2-be45-08a577d17b86",
+            "type": 0
+        }
+    ],
+    "children": [
+        {
+            "typeGuid": "508647ca-01f3-4930-9e33-4562692b719f",
+            "instanceGuid": "844da870-ba0d-f4fa-20f1-6b24239c8e22",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "SM_Dead_Trunk"
+                }
+            ],
+            "children": [
+                {
+                    "typeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
+                    "instanceGuid": "f2e20e8e-5ac7-3e5d-5c66-2c5145eb0d15",
+                    "data_components": [
+                        {
+                            "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                            "name": "SM_Dead_Trunk"
+                        }
+                    ],
+                    "9f750482-b822-4d4b-be6a-9c135c614328": {
+                        "stages": [
+                            "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                            "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                        ]
+                    },
+                    "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                        "mesh": "62ac63dd-50f2-2fe6-6fe9-4685bb3ca81e",
+                        "material_instance": "b10e88e2-6174-8b8e-4b9f-df44e2feca5b"
+                    }
+                }
+            ],
+            "508647ca-01f3-4930-9e33-4562692b719f": {
+                "mesh": "62ac63dd-50f2-2fe6-6fe9-4685bb3ca81e"
+            },
+            "10dceba7-be9f-4a9d-9902-6f51bed634ab": {
+                "physical_material": "db5dc618-2cfe-44e9-a319-69c503d090e7"
+            }
+        }
+    ],
+    "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+        "scene": "aaef492b-91a8-ad86-2340-83a1850943a1"
+    },
+    "dependencies": [
+        "b10e88e2-6174-8b8e-4b9f-df44e2feca5b",
+        "62ac63dd-50f2-2fe6-6fe9-4685bb3ca81e",
+        "db5dc618-2cfe-44e9-a319-69c503d090e7"
+    ]
+}

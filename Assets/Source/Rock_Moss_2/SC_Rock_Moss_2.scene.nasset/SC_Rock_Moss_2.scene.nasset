@@ -1,0 +1,104 @@
+{
+    "guid": "6e415bc3-8b0d-009c-3832-c03314a4c810",
+    "source": "../SC_Rock_Moss_2.fbx",
+    "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+    "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+    "instanceGuid": "4f56dd01-113c-d807-51b1-492097eec83e",
+    "data_components": [
+        {
+            "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+            "name": "Rock Moss 2"
+        }
+    ],
+    "children": [
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "01259d85-4116-d555-4eb0-eaccd9db3eaf",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Rock Moss 8"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "f3696e93-7177-3eb9-2fbb-0bf9d4395162"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "08f9a467-248e-9e15-59e4-32fa765a5117",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Rock Moss 9"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "5f57a402-1593-28c5-7218-b830bf2a0618"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "b2fd859a-2036-d9b8-ae36-021f315f66f8",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Rock Moss 10"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "d61cd3a0-a9d7-cc51-1973-aae9f33f06f7"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "43d0fe60-e7a0-c158-7ee8-e9afb64ade58",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Rock Moss 11"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "5b1b9641-26f7-931d-2e2c-5e7831b863d1"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "2b64fb26-8dd7-4a0e-cd7a-d325bbe75a0a",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Rock Moss 12"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "1e122c77-c0de-a123-8756-7ef33d10072a"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "1efff3b9-e596-9d5b-821a-69a49b1eaa35",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Rock Moss 13"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "a2e2e5e5-1a49-22c7-7ce9-68884767e7ab"
+            }
+        }
+    ],
+    "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+        "scene": "6e415bc3-8b0d-009c-3832-c03314a4c810"
+    },
+    "dependencies": [
+        "f3696e93-7177-3eb9-2fbb-0bf9d4395162",
+        "5f57a402-1593-28c5-7218-b830bf2a0618",
+        "d61cd3a0-a9d7-cc51-1973-aae9f33f06f7",
+        "5b1b9641-26f7-931d-2e2c-5e7831b863d1",
+        "1e122c77-c0de-a123-8756-7ef33d10072a",
+        "a2e2e5e5-1a49-22c7-7ce9-68884767e7ab"
+    ]
+}

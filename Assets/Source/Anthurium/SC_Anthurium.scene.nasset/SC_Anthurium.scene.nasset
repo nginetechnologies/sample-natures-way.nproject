@@ -1,0 +1,104 @@
+{
+    "guid": "3092eed7-3392-cb45-a0bd-9bb8b1007f6b",
+    "source": "../SC_Anthurium.fbx",
+    "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+    "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+    "instanceGuid": "823ac313-291e-1550-c11f-b08044a4b6cf",
+    "data_components": [
+        {
+            "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+            "name": "Anthurium"
+        }
+    ],
+    "children": [
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "aca1066f-bfaa-0b08-dbae-e57972e3def4",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Anthurium 1"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "03f7ac4f-17c3-0c8f-dc11-c3893600f6fd"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "fa6e1129-4537-e6c4-4c49-c6d648164a4c",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Anthurium 2"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "2378158f-3e86-6356-64bf-a9b52f8eeef5"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "1555c897-8e93-97fd-34bd-c2399640d7e0",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Anthurium 3"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "a5329c6e-446f-6b13-9b57-3ded84f2e45c"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "8fa3ddd6-185a-4bca-ea08-f082eb9fc278",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Anthurium 4"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "249042b9-5303-4e51-fa5b-e980ef6e0683"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "a0abc686-bb5d-71e7-bf7a-9fc5d77e6006",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Anthurium 5"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "90104aa5-5c7f-c194-93cb-4ab4f20d75d9"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "40f72f4b-ebb1-a6bf-4b01-76c439f82ab5",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Anthurium 6"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "61db3415-1944-6226-691f-1db5f66be489"
+            }
+        }
+    ],
+    "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+        "scene": "3092eed7-3392-cb45-a0bd-9bb8b1007f6b"
+    },
+    "dependencies": [
+        "03f7ac4f-17c3-0c8f-dc11-c3893600f6fd",
+        "2378158f-3e86-6356-64bf-a9b52f8eeef5",
+        "a5329c6e-446f-6b13-9b57-3ded84f2e45c",
+        "249042b9-5303-4e51-fa5b-e980ef6e0683",
+        "90104aa5-5c7f-c194-93cb-4ab4f20d75d9",
+        "61db3415-1944-6226-691f-1db5f66be489"
+    ]
+}

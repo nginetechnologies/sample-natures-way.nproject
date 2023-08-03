@@ -1,0 +1,48 @@
+{
+    "guid": "d539413e-299f-59fc-7490-aaa232c8c06d",
+    "source": "../SC_Pine_Roots.fbx",
+    "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+    "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+    "instanceGuid": "8fd0619a-63c4-8b22-9c2c-636b6ddf9c4c",
+    "data_components": [
+        {
+            "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+            "name": "Pine Roots"
+        }
+    ],
+    "children": [
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "a7a4cdec-4b22-3594-7f02-8ae3c0b87f81",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Roots 1"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "abf34827-a09e-8aee-1dc7-b04a8d69bd9d"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "151b9970-d048-0f48-b9d3-44eb0b56a3cb",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Roots 2"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "f451d4b7-a55d-fb54-d893-48de1e1b8d57"
+            }
+        }
+    ],
+    "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+        "scene": "d539413e-299f-59fc-7490-aaa232c8c06d"
+    },
+    "dependencies": [
+        "abf34827-a09e-8aee-1dc7-b04a8d69bd9d",
+        "f451d4b7-a55d-fb54-d893-48de1e1b8d57"
+    ]
+}

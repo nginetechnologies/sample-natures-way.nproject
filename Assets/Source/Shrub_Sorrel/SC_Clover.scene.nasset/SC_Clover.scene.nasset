@@ -1,0 +1,90 @@
+{
+    "guid": "9237ac47-5986-ab7a-9bab-5584aa1e24b0",
+    "source": "../SC_Clover.fbx",
+    "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+    "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+    "instanceGuid": "89fe790f-8dc8-0382-60b2-aa3790aad46d",
+    "data_components": [
+        {
+            "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+            "name": "Clover"
+        }
+    ],
+    "children": [
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "d9f919ba-00ef-7b2a-e862-6a330f962798",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Clover 1"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "8ae6dd54-64ff-c60f-a098-9257254e5b2b"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "ce8d90ac-1163-5a1b-12e6-01cb11c2a56c",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Clover 2"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "61082c55-f789-0a80-6549-6d0896aaa9f7"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "1a447cb0-e8e9-437e-f67e-3ae3bf3f436f",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Clover 3"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "11dcac0d-4214-e2f6-8626-597b428fd99c"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "4658ad95-dd00-aa4d-2f91-b551b5b8447b",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Clover 4"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "3dababa1-ea0c-ade1-2c70-e0aeb34d8dd7"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "d3798e39-531f-3261-6e92-7b59e383675b",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Clover 5"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "f34e5fca-55bf-1d04-9157-457e8ff8740e"
+            }
+        }
+    ],
+    "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+        "scene": "9237ac47-5986-ab7a-9bab-5584aa1e24b0"
+    },
+    "dependencies": [
+        "8ae6dd54-64ff-c60f-a098-9257254e5b2b",
+        "61082c55-f789-0a80-6549-6d0896aaa9f7",
+        "11dcac0d-4214-e2f6-8626-597b428fd99c",
+        "3dababa1-ea0c-ade1-2c70-e0aeb34d8dd7",
+        "f34e5fca-55bf-1d04-9157-457e8ff8740e"
+    ]
+}

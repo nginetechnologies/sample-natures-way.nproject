@@ -8,9 +8,6 @@
     },
     "data_components": [
         {
-            "typeGuid": "64215a37-64a6-45bd-ba87-10abe74da0f9"
-        },
-        {
             "typeGuid": "05a7011d-a220-49f2-98df-81b32be3c0fd",
             "camera_settings": {
                 "typeGuid": "9ae0e145-86b4-4e47-afda-697bbd008922",
@@ -22,33 +19,162 @@
             },
             "transform": {
                 "position": [
-                    2.5489,
-                    -5.4169,
-                    4.5
+                    -2.5695,
+                    3.2183,
+                    5.5007
                 ],
                 "rotation": [
-                    -29.7831,
+                    -53.0542,
                     -0.0,
-                    21.8076
+                    -149.219
                 ]
-            },
-            "grid_settings": {
-                "typeGuid": "ecc5ac5d-5450-4808-97b1-e25d91462d96",
-                "ecc5ac5d-5450-4808-97b1-e25d91462d96": {
-                    "transform": {
-                        "position": [
-                            0.0,
-                            0.0,
-                            1.0
-                        ]
-                    }
-                }
             }
+        },
+        {
+            "typeGuid": "64215a37-64a6-45bd-ba87-10abe74da0f9"
         }
     ],
     "children": [
         {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "aca1066f-bfaa-0b08-dbae-e57972e3def4",
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    2.0,
+                    0.0,
+                    0.0
+                ]
+            },
+            "data_components": [
+                {
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "aca1066f-bfaa-0b08-dbae-e57972e3def4"
+                },
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Anthurium 1"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "03f7ac4f-17c3-0c8f-dc11-c3893600f6fd"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "fa6e1129-4537-e6c4-4c49-c6d648164a4c",
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    -1.0,
+                    0.0,
+                    0.0
+                ]
+            },
+            "data_components": [
+                {
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "fa6e1129-4537-e6c4-4c49-c6d648164a4c"
+                },
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Anthurium 2"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "2378158f-3e86-6356-64bf-a9b52f8eeef5"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "1555c897-8e93-97fd-34bd-c2399640d7e0",
+            "data_components": [
+                {
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "1555c897-8e93-97fd-34bd-c2399640d7e0"
+                },
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Anthurium 3"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "a5329c6e-446f-6b13-9b57-3ded84f2e45c"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "8fa3ddd6-185a-4bca-ea08-f082eb9fc278",
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    1.0,
+                    0.0,
+                    0.0
+                ]
+            },
+            "data_components": [
+                {
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "8fa3ddd6-185a-4bca-ea08-f082eb9fc278"
+                },
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Anthurium 4"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "249042b9-5303-4e51-fa5b-e980ef6e0683"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "a0abc686-bb5d-71e7-bf7a-9fc5d77e6006",
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    1.0,
+                    1.0,
+                    0.0
+                ]
+            },
+            "data_components": [
+                {
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "a0abc686-bb5d-71e7-bf7a-9fc5d77e6006"
+                },
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Anthurium 5"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "90104aa5-5c7f-c194-93cb-4ab4f20d75d9"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "40f72f4b-ebb1-a6bf-4b01-76c439f82ab5",
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    0.0,
+                    1.0,
+                    0.0
+                ]
+            },
+            "data_components": [
+                {
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "40f72f4b-ebb1-a6bf-4b01-76c439f82ab5"
+                },
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Anthurium 6"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "61db3415-1944-6226-691f-1db5f66be489"
+            }
+        },
+        {
             "typeGuid": "88a0cdbb-2826-46e3-b372-2a5154eacb61",
+            "instanceGuid": "46b52757-2beb-f675-b629-7ed010eb3767",
             "de8f8da2-d37f-41da-bc6e-580435fe605f": {
                 "position": [
                     0.0,
@@ -61,6 +187,10 @@
             },
             "data_components": [
                 {
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "d3f8c605-fcfb-7875-d708-d957a810e116"
+                },
+                {
                     "typeGuid": "fa5e5929-fdb4-4579-8c03-f3f837cf4905",
                     "mask": [
                         "997e9c4d-d494-4a6e-bb6c-620ced5fabde"
@@ -69,15 +199,12 @@
                 {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
                     "name": "Spawn Point"
-                },
-                {
-                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                    "templateInstanceGuid": "d3f8c605-fcfb-7875-d708-d957a810e116"
                 }
             ]
         },
         {
             "typeGuid": "8f32c5fc-bac8-4d50-97df-bdf0be0ad32e",
+            "instanceGuid": "cb589001-c719-7d19-eae7-1c39149dbae5",
             "de8f8da2-d37f-41da-bc6e-580435fe605f": {
                 "position": [
                     3.2569,
@@ -109,6 +236,10 @@
             },
             "data_components": [
                 {
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "59ee1ac2-c4c3-18c2-32b4-527f2c2e8032"
+                },
+                {
                     "typeGuid": "fa5e5929-fdb4-4579-8c03-f3f837cf4905",
                     "mask": [
                         "13ca71b8-d868-4f7c-a0bb-c7585db11327"
@@ -117,15 +248,12 @@
                 {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
                     "name": "Directional Light"
-                },
-                {
-                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                    "templateInstanceGuid": "59ee1ac2-c4c3-18c2-32b4-527f2c2e8032"
                 }
             ]
         },
         {
             "typeGuid": "37000929-8ed6-4f15-a9ec-4f7d15302f02",
+            "instanceGuid": "a2ec6d3a-4fa9-2b30-f094-e5b7636c94a7",
             "de8f8da2-d37f-41da-bc6e-580435fe605f": {
                 "rotation": [
                     -89.999,
@@ -138,17 +266,21 @@
             },
             "data_components": [
                 {
-                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
-                    "name": "Directional Gravity"
-                },
-                {
                     "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
                     "templateInstanceGuid": "18346473-407b-41da-9738-296707036b30"
+                },
+                {
+                    "typeGuid": "fa5e5929-fdb4-4579-8c03-f3f837cf4905"
+                },
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Directional Gravity"
                 }
             ]
         },
         {
             "typeGuid": "7be15c72-f784-4f5e-b895-7cc2fbef6355",
+            "instanceGuid": "f43f6392-871f-487c-346e-7b5efc6edc40",
             "de8f8da2-d37f-41da-bc6e-580435fe605f": {
                 "position": [
                     -25.1403,
@@ -169,10 +301,14 @@
             },
             "7be15c72-f784-4f5e-b895-7cc2fbef6355": {
                 "radius": 40.0,
-                "irradiance": "bc027ea3-8bb8-eefb-e5ab-cdda5daf7960",
-                "prefiltered": "e6493955-7148-ffa7-42b0-ea153ff8ea94"
+                "irradiance": "f8e988bd-5181-417f-86f6-16e947c2e417",
+                "prefiltered": "614855dc-f150-89ee-ca09-7cc9d44d0985"
             },
             "data_components": [
+                {
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "59ee1ac2-c4c3-18c2-32b4-527f2c2e8032"
+                },
                 {
                     "typeGuid": "fa5e5929-fdb4-4579-8c03-f3f837cf4905",
                     "mask": [
@@ -182,15 +318,12 @@
                 {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
                     "name": "Environment Light"
-                },
-                {
-                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                    "templateInstanceGuid": "59ee1ac2-c4c3-18c2-32b4-527f2c2e8032"
                 }
             ]
         },
         {
             "typeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
+            "instanceGuid": "e131e7a2-7f22-0e42-ba6c-93c1b1073543",
             "de8f8da2-d37f-41da-bc6e-580435fe605f": {
                 "position": [
                     0.0,
@@ -213,6 +346,10 @@
             },
             "data_components": [
                 {
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "f695b7d2-b906-4085-5b54-71c0ed7599b6"
+                },
+                {
                     "typeGuid": "fa5e5929-fdb4-4579-8c03-f3f837cf4905",
                     "mask": [
                         "13ca71b8-d868-4f7c-a0bb-c7585db11327"
@@ -221,12 +358,17 @@
                 {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
                     "name": "Skysphere"
-                },
-                {
-                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                    "templateInstanceGuid": "f695b7d2-b906-4085-5b54-71c0ed7599b6"
                 }
             ]
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "disabled_with_children": true
+            },
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "a5329c6e-446f-6b13-9b57-3ded84f2e45c"
+            }
         }
     ],
     "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672"

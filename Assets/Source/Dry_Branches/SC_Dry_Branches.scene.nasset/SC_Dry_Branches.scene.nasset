@@ -1,0 +1,62 @@
+{
+    "guid": "087a23c1-3bb4-d7e0-9e03-62538b30c157",
+    "source": "../SC_Dry_Branches.fbx",
+    "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+    "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+    "instanceGuid": "e707f5d6-9d5d-d088-a70d-eb5033e6b00f",
+    "data_components": [
+        {
+            "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+            "name": "Dry Branches"
+        }
+    ],
+    "children": [
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "8b7a468c-c427-018a-795a-00c05faf8d1a",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Dry Branch 1"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "e61f9a55-388d-7ddd-22e5-f97d37843906"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "44b1c0b5-ac0e-a6ce-5848-d37492f5a8c6",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Dry Branch 2"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "4e3f4b61-df00-81c2-5772-265bc40a1701"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "f568fc40-f00e-6c67-2f56-3ad5e7db7059",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Dry Branch 3"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "b50c519d-3640-0002-cc48-7b85e2895576"
+            }
+        }
+    ],
+    "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+        "scene": "087a23c1-3bb4-d7e0-9e03-62538b30c157"
+    },
+    "dependencies": [
+        "e61f9a55-388d-7ddd-22e5-f97d37843906",
+        "4e3f4b61-df00-81c2-5772-265bc40a1701",
+        "b50c519d-3640-0002-cc48-7b85e2895576"
+    ]
+}

@@ -1,0 +1,90 @@
+{
+    "guid": "ee39328f-e34c-accd-9eb8-d6fd1a6a482c",
+    "source": "../SC_Dandelion.fbx",
+    "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+    "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+    "instanceGuid": "55edf5ab-71c6-1d0f-7a2d-a58c0a4e738b",
+    "data_components": [
+        {
+            "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+            "name": "Dandelion"
+        }
+    ],
+    "children": [
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "f9026433-d17f-6141-9425-cf2b27955328",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Dandelion 1"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "87540b50-d143-0474-353f-755da4e5aba6"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "e130b16a-69be-676b-0737-2b4c10de8fc8",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Dandelion 2"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "a4dc6ed1-2e2b-247a-948f-f1badcfab096"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "2dcbd068-acf6-fbdd-2ab6-11c5e2c2dc60",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Dandelion 3"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "f2df7abb-e22f-145b-002f-c27671685352"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "12b6ddf5-46b5-b2a3-10c4-ca7c26704f76",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Dandelion 4"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "a670f7e1-ec3a-9da0-dffc-f53fcdf8e7bb"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "e8386153-8b99-b83c-7ef3-ac42b43c95fb",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Dandelion 5"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "cb8b5fd4-6241-4947-ab2c-309743598890"
+            }
+        }
+    ],
+    "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+        "scene": "ee39328f-e34c-accd-9eb8-d6fd1a6a482c"
+    },
+    "dependencies": [
+        "87540b50-d143-0474-353f-755da4e5aba6",
+        "a4dc6ed1-2e2b-247a-948f-f1badcfab096",
+        "f2df7abb-e22f-145b-002f-c27671685352",
+        "a670f7e1-ec3a-9da0-dffc-f53fcdf8e7bb",
+        "cb8b5fd4-6241-4947-ab2c-309743598890"
+    ]
+}

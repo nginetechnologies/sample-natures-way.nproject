@@ -1,0 +1,90 @@
+{
+    "guid": "6f1a6100-e616-19ae-1237-3dbc41a33fd1",
+    "source": "../SC_Calathea.fbx",
+    "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+    "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+    "instanceGuid": "2273f653-d28d-65fc-6e55-d7d6c1c10765",
+    "data_components": [
+        {
+            "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+            "name": "Calathea"
+        }
+    ],
+    "children": [
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "b193e565-3452-b726-7780-03342c785e9e",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Calathea 1"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "c7e8ecf1-c4af-62d7-ab7c-f9cf45606628"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "8fa96a45-af18-854e-a43d-50f3642ae8ec",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Calathea 2"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "f7a5b786-8a84-d7ee-07e1-2392c4aeabd0"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "60330c43-2ece-7d1a-378c-cc0f3c931fcb",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Calathea 3"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "5ad0b499-9035-a0ac-d078-00af13347634"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "a5945210-d1ef-4d46-6739-93655a9236ae",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Calathea 4"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "8e24fdc9-c2fa-7d31-92fb-21b38f01c6f4"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "f19246a8-2a49-7327-adca-8e5416128327",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Calathea 5"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "4f52955e-fd91-ae60-df8c-cc07d3a9d4d6"
+            }
+        }
+    ],
+    "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+        "scene": "6f1a6100-e616-19ae-1237-3dbc41a33fd1"
+    },
+    "dependencies": [
+        "c7e8ecf1-c4af-62d7-ab7c-f9cf45606628",
+        "f7a5b786-8a84-d7ee-07e1-2392c4aeabd0",
+        "5ad0b499-9035-a0ac-d078-00af13347634",
+        "8e24fdc9-c2fa-7d31-92fb-21b38f01c6f4",
+        "4f52955e-fd91-ae60-df8c-cc07d3a9d4d6"
+    ]
+}

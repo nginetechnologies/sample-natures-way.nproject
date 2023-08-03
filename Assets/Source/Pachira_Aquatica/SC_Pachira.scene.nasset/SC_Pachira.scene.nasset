@@ -1,0 +1,76 @@
+{
+    "guid": "13600799-7b4a-5beb-0c6c-3d5ecefeafe2",
+    "source": "../SC_Pachira.fbx",
+    "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+    "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+    "instanceGuid": "836dfb2b-41ae-e7ba-5553-661b1761c8a3",
+    "data_components": [
+        {
+            "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+            "name": "Pachira"
+        }
+    ],
+    "children": [
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "80b79085-7c50-9a56-ab77-cbd2eb0a43ac",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Pachira 1"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "21f5275a-10f1-532a-0a83-9f56ac7fb950"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "7fee5c4c-ea7d-c30f-086d-a303f868e084",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Pachira 2"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "02671401-3d52-38ad-2d0d-c0612711ec4b"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "521d7073-8283-a372-77ea-60ad2b63cf64",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Pachira 3"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "79c570a0-36e8-e7e2-59f9-629d56e5768c"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "0892fcd2-c199-0f41-9729-f5a06c482cdc",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Pachira 4"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "abe006a2-2d3e-a92d-d99a-c84feadae5e5"
+            }
+        }
+    ],
+    "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+        "scene": "13600799-7b4a-5beb-0c6c-3d5ecefeafe2"
+    },
+    "dependencies": [
+        "21f5275a-10f1-532a-0a83-9f56ac7fb950",
+        "02671401-3d52-38ad-2d0d-c0612711ec4b",
+        "79c570a0-36e8-e7e2-59f9-629d56e5768c",
+        "abe006a2-2d3e-a92d-d99a-c84feadae5e5"
+    ]
+}

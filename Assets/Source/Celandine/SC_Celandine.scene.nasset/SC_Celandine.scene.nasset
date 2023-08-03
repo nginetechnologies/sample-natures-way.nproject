@@ -1,0 +1,90 @@
+{
+    "guid": "3254e73a-fc0a-a4c8-00ae-8c54ff4bf434",
+    "source": "../SC_Celandine.fbx",
+    "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+    "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+    "instanceGuid": "c3b4a606-9344-b282-a71e-c773fd13c2eb",
+    "data_components": [
+        {
+            "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+            "name": "Celandine"
+        }
+    ],
+    "children": [
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "eb740a4b-1644-4dc5-cf04-05848af6e2e8",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Celandine 1"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "f19501d9-7b8a-c2e0-13ad-fb10087091dc"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "b0d5891b-ca2a-252a-1cd2-c13741dc616a",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Celandine 2"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "5b5c313c-7c28-f52f-e2f8-8dda4564121d"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "7480314e-39c5-7ffe-2b2e-fb0485ac3bcb",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Celandine 3"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "7babc1b4-b391-3c9f-e740-4447f695a398"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "2bee7b61-445e-7963-54af-014c0281e06c",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Celandine 4"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "beb99744-e8f3-a974-bef1-ad0c7b5dfe07"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "a89f0923-3eca-5a20-09ea-e7bbd44e6ca1",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Celandine 5"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "76318117-ce64-98a8-a5e7-09894ee501db"
+            }
+        }
+    ],
+    "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+        "scene": "3254e73a-fc0a-a4c8-00ae-8c54ff4bf434"
+    },
+    "dependencies": [
+        "f19501d9-7b8a-c2e0-13ad-fb10087091dc",
+        "5b5c313c-7c28-f52f-e2f8-8dda4564121d",
+        "7babc1b4-b391-3c9f-e740-4447f695a398",
+        "beb99744-e8f3-a974-bef1-ad0c7b5dfe07",
+        "76318117-ce64-98a8-a5e7-09894ee501db"
+    ]
+}

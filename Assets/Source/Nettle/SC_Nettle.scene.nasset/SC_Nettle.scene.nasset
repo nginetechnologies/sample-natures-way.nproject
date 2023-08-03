@@ -1,0 +1,104 @@
+{
+    "guid": "9c3cb89e-a65f-97de-9c69-eb55209b5a1f",
+    "source": "../SC_Nettle.fbx",
+    "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+    "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+    "instanceGuid": "c987b3aa-2a50-9b0f-edcb-90f303be7a95",
+    "data_components": [
+        {
+            "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+            "name": "Nettle"
+        }
+    ],
+    "children": [
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "29da87bb-bfab-2264-be10-6a0cc4f7a1e1",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Nettle 1"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "2a24f4b2-ff42-4ab7-9c97-a4de26c55872"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "ce066bf1-8d00-b29c-e7d0-7ccda6c1f1e3",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Nettle 2"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "d48a04e1-a662-e049-e100-1ce11ce23cfb"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "28d67b28-8ccd-ff9e-9390-62604792de08",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Nettle 3"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "db032606-51c9-8254-4508-f6d06103785a"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "31ea68ba-0a46-7f3b-19bf-f331ecc6a5e6",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Nettle 4"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "7cb2f9b7-334a-d4e1-b3ca-e7e8c54fa646"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "acc3cb55-0492-d8dc-98a8-38a885f072c8",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Nettle 5"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "137c3fdd-7a15-999d-8c34-dfe3ca78e18c"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "5c992bb6-c5b3-d9e2-bf88-cc6fab9dc7ac",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Nettle 6"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "7a4cf892-a563-2bce-0e73-1216486b1972"
+            }
+        }
+    ],
+    "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+        "scene": "9c3cb89e-a65f-97de-9c69-eb55209b5a1f"
+    },
+    "dependencies": [
+        "2a24f4b2-ff42-4ab7-9c97-a4de26c55872",
+        "d48a04e1-a662-e049-e100-1ce11ce23cfb",
+        "db032606-51c9-8254-4508-f6d06103785a",
+        "7cb2f9b7-334a-d4e1-b3ca-e7e8c54fa646",
+        "137c3fdd-7a15-999d-8c34-dfe3ca78e18c",
+        "7a4cf892-a563-2bce-0e73-1216486b1972"
+    ]
+}

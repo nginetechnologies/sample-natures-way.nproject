@@ -1,0 +1,118 @@
+{
+    "guid": "6a040512-2d8e-43bc-7354-58f2a9e71c5e",
+    "source": "../SC_Rock_Moss_1.fbx",
+    "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+    "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+    "instanceGuid": "8991d55e-c85e-108d-03db-76263d236e72",
+    "data_components": [
+        {
+            "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+            "name": "Rock Moss 1"
+        }
+    ],
+    "children": [
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "661e7ec6-1ecf-cc64-a524-c492d56438ff",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Rock Moss 1"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "7b73d0ea-1d6c-eec3-1ee5-0d4d277ff01b"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "635cda8c-80d3-e1aa-ffee-593442c803cb",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Rock Moss 2"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "fe6ae889-1eee-6995-7963-2e2cde11959d"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "4077b73c-6234-ca03-7f2e-8c57b90105d4",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Rock Moss 3"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "f6395877-c075-030d-3c33-5e5cb17d114a"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "20be2e0a-8ffe-3116-126c-ea8da6c76401",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Rock Moss 4"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "dfb64172-072f-ec05-4d29-7bca917a8839"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "322d43a1-2308-ff74-c127-e862fb83b9af",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Rock Moss 5"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "78371259-ec16-09bf-9f09-52273846e2ac"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "6ae15319-b510-18c4-a0bd-f43e64f770d8",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Rock Moss 6"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "f8ca3f87-7f74-6216-16b0-dc9a7d374fcf"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "9fe77f26-a4d6-ef2b-aa8a-06f1ca026c8e",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Rock Moss 7"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "a005ea5f-94c4-d22b-a74d-3369fc1f40f5"
+            }
+        }
+    ],
+    "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+        "scene": "6a040512-2d8e-43bc-7354-58f2a9e71c5e"
+    },
+    "dependencies": [
+        "7b73d0ea-1d6c-eec3-1ee5-0d4d277ff01b",
+        "fe6ae889-1eee-6995-7963-2e2cde11959d",
+        "f6395877-c075-030d-3c33-5e5cb17d114a",
+        "dfb64172-072f-ec05-4d29-7bca917a8839",
+        "78371259-ec16-09bf-9f09-52273846e2ac",
+        "f8ca3f87-7f74-6216-16b0-dc9a7d374fcf",
+        "a005ea5f-94c4-d22b-a74d-3369fc1f40f5"
+    ]
+}
