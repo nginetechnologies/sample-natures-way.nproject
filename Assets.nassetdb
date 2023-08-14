@@ -8,150 +8,14 @@
             "f5777f96-a43c-4ebd-872a-1eeda5719aaf"
         ]
     },
-    "13e68894-c286-460c-b7aa-0ae1288f77f0": {
-        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
-        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
-        "path": "Assets/Characters/XBot/XBot_Jump_Loop.anim.nasset",
-        "dependencies": [
-            "c21f3cac-2980-fa6b-c73a-08f53c76afa8"
-        ]
-    },
-    "19408caa-141a-c6dd-2024-63e08bc5af10": {
-        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
-        "path": "Assets/Characters/XBot/Material Instances/Thumbnails/XBot Joints.mtli.nasset.tex.nasset"
-    },
-    "1a26e71d-6a90-7088-eab7-a4051530f29f": {
-        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "path": "Assets/Characters/XBot/SK_XBot.scene.nasset/SK XBot.mesh.nasset/SK XBot.mesh.nasset",
-        "tags": [
-            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
-        ]
-    },
-    "1d67021c-38b2-4476-948d-c999a5c58f3d": {
-        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
-        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
-        "path": "Assets/Characters/XBot/XBot_Jump_Start.anim.nasset",
-        "dependencies": [
-            "c21f3cac-2980-fa6b-c73a-08f53c76afa8"
-        ]
-    },
-    "36683e28-5bff-ae88-e3d8-c35d742634ba": {
-        "assetTypeGuid": "3f5ab03e-bca9-4a4a-a864-e539033ad66c",
-        "componentTypeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
-        "path": "Assets/Characters/XBot/SK_XBot.scene.nasset/SK XBot.mesh.nasset/SK XBot Xbot Main.meshskin.nasset",
-        "dependencies": [
-            "82f3529f-f8e2-b3c8-363f-b2169a57ea0e",
-            "c21f3cac-2980-fa6b-c73a-08f53c76afa8",
-            "51f49d79-e41d-8366-a8cf-b29678312e86"
-        ]
-    },
-    "46fb6551-fd97-4caf-bdb4-581b4a14db65": {
-        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
-        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
-        "path": "Assets/Characters/XBot/XBot_Jump_End.anim.nasset",
-        "dependencies": [
-            "c21f3cac-2980-fa6b-c73a-08f53c76afa8"
-        ]
-    },
     "4a39cb3b-4a5c-41e2-9334-09f41c897d70": {
         "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
         "componentTypeGuid": "2a2bce0a-6314-481b-a5a0-7d01e1c00b35",
         "path": "Assets/Natures Way.scene.nasset"
     },
-    "51f49d79-e41d-8366-a8cf-b29678312e86": {
-        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
-        "path": "Assets/Characters/XBot/Material Instances/Xbot Main.mtli.nasset",
-        "thumbnail": "f1db00ae-1dc2-eedd-284c-a1ccc20826fa",
-        "dependencies": [
-            "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
-        ]
-    },
     "53a898a8-7e76-ec63-d4d9-89e08e76ea7c": {
         "assetTypeGuid": "77b22fc4-d109-4dd3-a922-38388879fc90",
         "path": "Assets.nassetdb"
-    },
-    "82f3529f-f8e2-b3c8-363f-b2169a57ea0e": {
-        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
-        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Characters/XBot/SK_XBot.scene.nasset/SK XBot.mesh.nasset/SK XBot Xbot Main.mesh.nasset",
-        "tags": [
-            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
-        ],
-        "dependencies": [
-            "51f49d79-e41d-8366-a8cf-b29678312e86",
-            "db5dc618-2cfe-44e9-a319-69c503d090e7"
-        ]
-    },
-    "9587ce6c-b613-4c27-8fca-c66f0a3324c9": {
-        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
-        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
-        "path": "Assets/Characters/XBot/XBot_Walk.anim.nasset",
-        "dependencies": [
-            "c21f3cac-2980-fa6b-c73a-08f53c76afa8"
-        ]
-    },
-    "a724e2d3-d3f5-6c9d-b7af-1281815120e0": {
-        "assetTypeGuid": "3f5ab03e-bca9-4a4a-a864-e539033ad66c",
-        "componentTypeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
-        "path": "Assets/Characters/XBot/SK_XBot.scene.nasset/SK XBot.mesh.nasset/SK XBot XBot Joints.meshskin.nasset",
-        "dependencies": [
-            "d6ea4a66-c2ac-3c5f-a94c-d7d9253c8fac",
-            "c21f3cac-2980-fa6b-c73a-08f53c76afa8",
-            "ee1d0c24-ccce-5ef0-8d69-27d470278fdf"
-        ]
-    },
-    "c21f3cac-2980-fa6b-c73a-08f53c76afa8": {
-        "assetTypeGuid": "d36708f1-71f9-4334-8146-62c743c39970",
-        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
-        "path": "Assets/Characters/XBot/SK_XBot.scene.nasset/SK XBot.mesh.nasset/Skeletons/RootNode.skel.nasset"
-    },
-    "d6ea4a66-c2ac-3c5f-a94c-d7d9253c8fac": {
-        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
-        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Characters/XBot/SK_XBot.scene.nasset/SK XBot.mesh.nasset/SK XBot XBot Joints.mesh.nasset",
-        "tags": [
-            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
-        ],
-        "dependencies": [
-            "ee1d0c24-ccce-5ef0-8d69-27d470278fdf",
-            "db5dc618-2cfe-44e9-a319-69c503d090e7"
-        ]
-    },
-    "e36ff39f-85a5-47a4-9ee8-7f441f834030": {
-        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
-        "path": "Assets/Characters/XBot/Thumbnails/XBot.scene.nasset.tex.nasset"
-    },
-    "e3c0554b-c3b1-ffd1-5e4f-bf07eb428d69": {
-        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
-        "path": "Assets/Characters/XBot/SK_XBot.scene.nasset/SK_XBot.scene.nasset"
-    },
-    "ee1d0c24-ccce-5ef0-8d69-27d470278fdf": {
-        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
-        "path": "Assets/Characters/XBot/Material Instances/XBot Joints.mtli.nasset",
-        "thumbnail": "19408caa-141a-c6dd-2024-63e08bc5af10",
-        "dependencies": [
-            "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
-        ]
-    },
-    "f1db00ae-1dc2-eedd-284c-a1ccc20826fa": {
-        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
-        "path": "Assets/Characters/XBot/Material Instances/Thumbnails/Xbot Main.mtli.nasset.tex.nasset"
-    },
-    "f2de2883-1a3c-432f-bfe1-21bd048e4a47": {
-        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
-        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
-        "path": "Assets/Characters/XBot/XBot_Idle.anim.nasset",
-        "dependencies": [
-            "c21f3cac-2980-fa6b-c73a-08f53c76afa8"
-        ]
-    },
-    "f4938e8d-4b1c-4052-a801-5d51cdad96f6": {
-        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
-        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
-        "path": "Assets/Characters/XBot/XBot_Run.anim.nasset",
-        "dependencies": [
-            "c21f3cac-2980-fa6b-c73a-08f53c76afa8"
-        ]
     },
     "guid": "53a898a8-7e76-ec63-d4d9-89e08e76ea7c",
     "imported_assets": [
@@ -184,16 +48,20 @@
         "12adb88b-d699-b973-ecb8-36e82dee6d38",
         "13600799-7b4a-5beb-0c6c-3d5ecefeafe2",
         "137c3fdd-7a15-999d-8c34-dfe3ca78e18c",
+        "13e68894-c286-460c-b7aa-0ae1288f77f0",
         "1400b377-da27-8206-eb52-7e5913943889",
         "14393f8e-7c38-657f-193e-0af48ddf2b04",
         "150e6b45-dbe9-3542-d58d-a5c4f7521207",
         "151d2d56-0744-e3cf-7f3e-2ea5bc53cef5",
         "159ca748-7c68-7035-21f1-b1735c475ea0",
         "1669c63b-eb89-20b4-85a2-3914e8615889",
+        "19408caa-141a-c6dd-2024-63e08bc5af10",
         "1981ad7b-8f61-a1ab-7fe4-6638c591dac9",
+        "1a26e71d-6a90-7088-eab7-a4051530f29f",
         "1a5272f8-ff9a-f926-783c-7a7505869ff2",
         "1a66d0da-dd22-6a05-c491-ad52cd002e06",
         "1b7335c5-8154-ef77-689f-6deba93ab505",
+        "1d67021c-38b2-4476-948d-c999a5c58f3d",
         "1e122c77-c0de-a123-8756-7ef33d10072a",
         "1e56798b-b3c0-cf18-5fe4-489efbcafdbf",
         "1f78c8e3-7cac-99e4-048c-5fd09aa35e44",
@@ -242,6 +110,7 @@
         "32abb5ad-b526-cce0-6c82-6d73b8dbf0db",
         "33784a97-87d4-153f-de07-f5e3a1a2ff74",
         "36390625-fbd9-40fd-4237-07bdddc76895",
+        "36683e28-5bff-ae88-e3d8-c35d742634ba",
         "39c7fcd8-66fa-0ddf-4aa5-0cbd28cfbb10",
         "3bc331ba-3878-3928-d6d2-78ec0d33e0bf",
         "3d6745e9-04ef-6aa7-e9ee-278f8bed536a",
@@ -256,16 +125,19 @@
         "4317934a-fa91-7790-0121-6980c7a0b5ac",
         "43535dff-e447-2f43-7858-779f651838af",
         "447e0fd1-1442-5a5a-c17d-0141c35a55b7",
+        "46fb6551-fd97-4caf-bdb4-581b4a14db65",
         "474d2bad-fbd6-5d66-4c0e-074ba6c98d5f",
         "4a93b9da-6272-7b59-0297-3a3df9566c10",
         "4a9e9a2a-ed27-bf29-8aa6-1d80c7f92bd4",
         "4c0db56d-d3f6-86c5-31fc-3cedda3f5468",
+        "4c3001ee-8a3b-4fc0-bc83-d36b2f58f305",
         "4cc0eb8c-ad7e-0fb4-bc5d-560f2b0c6921",
         "4d5e60e2-7266-bf55-c425-7e4873fa9e4b",
         "4e3f4b61-df00-81c2-5772-265bc40a1701",
         "4f52955e-fd91-ae60-df8c-cc07d3a9d4d6",
         "51ac1bd2-69ac-8910-2490-8f2dd3a1b000",
         "51ad050e-ec2e-839f-4aa8-830ff23f939f",
+        "51f49d79-e41d-8366-a8cf-b29678312e86",
         "5372d48c-8149-ebf6-aeca-94b599ad7ec3",
         "5461a15b-702f-f111-b842-c3c462f0809d",
         "54e09aef-c8b1-0c22-471e-76ebb63a8562",
@@ -340,6 +212,7 @@
         "814fb5d4-6e0d-f16b-0a85-5eb14804eded",
         "818984c0-811a-b40e-e22a-7098c090508b",
         "82153294-45db-9947-38c6-87e2b469f76d",
+        "82f3529f-f8e2-b3c8-363f-b2169a57ea0e",
         "8570dcf9-041f-ffc9-f550-0c99e85926d7",
         "866e3202-4fa1-8fff-33e8-59dab4431e83",
         "870826a9-09b5-abaf-01a8-594bac5c7c4f",
@@ -364,6 +237,7 @@
         "9307df63-c9eb-f35a-c0b2-381aac78ebdf",
         "93867330-d26c-b7c7-2fb1-fa2afb963400",
         "9582f67c-6256-6139-9806-31bcb1a1e346",
+        "9587ce6c-b613-4c27-8fca-c66f0a3324c9",
         "961bc822-08fd-cfe5-f49f-18c46c75f44b",
         "96c7a3d1-15da-f610-7e6b-aa89afef93b8",
         "97578825-0879-2a4b-ec09-29961fa9e2bd",
@@ -385,6 +259,7 @@
         "a5ff0ab5-0f9a-ed58-187b-7db9b44153e8",
         "a670f7e1-ec3a-9da0-dffc-f53fcdf8e7bb",
         "a6cf8b75-9767-76d1-a6a3-29baa161e367",
+        "a724e2d3-d3f5-6c9d-b7af-1281815120e0",
         "a8258843-5e66-1227-c3e8-8ff2a667a9e4",
         "aaef492b-91a8-ad86-2340-83a1850943a1",
         "aaf2c2b7-20d9-4917-60c1-792ebbe11ac3",
@@ -415,6 +290,7 @@
         "c0de8bfb-4c26-bc6d-63b7-4edcf8afacaf",
         "c13d181f-f426-aca9-d490-8f477279c008",
         "c1aa19a2-5239-74c1-8801-0e7760805189",
+        "c21f3cac-2980-fa6b-c73a-08f53c76afa8",
         "c27128c6-51f2-d9fb-5f5c-f43e5c9cd057",
         "c29c85fa-c99b-7673-480a-09a421b6db40",
         "c5b8cb08-f180-1e36-bb0a-156cf2f306b5",
@@ -439,12 +315,15 @@
         "d5816872-ef23-4b7c-0d6c-f44d00fb3950",
         "d61cd3a0-a9d7-cc51-1973-aae9f33f06f7",
         "d6da930a-c8a8-9162-2184-cef48827e8bd",
+        "d6ea4a66-c2ac-3c5f-a94c-d7d9253c8fac",
         "db032606-51c9-8254-4508-f6d06103785a",
         "df88c890-c57f-d846-977f-7a6ff3c23b32",
         "dfb64172-072f-ec05-4d29-7bca917a8839",
         "e025e20a-c237-a3ee-2983-64b67c2b7f98",
         "e1c78467-4247-9c7d-7886-1550fe133666",
         "e325e460-0602-3a55-6473-f90d8fdf182d",
+        "e36ff39f-85a5-47a4-9ee8-7f441f834030",
+        "e3c0554b-c3b1-ffd1-5e4f-bf07eb428d69",
         "e3eca1ed-d9a9-4be9-8dd4-b9236ce2dc87",
         "e4e89d13-8dd7-f09d-378f-c038d64ac4a0",
         "e61f9a55-388d-7ddd-22e5-f97d37843906",
@@ -458,17 +337,21 @@
         "ece6209e-c97b-44df-1f29-deda870730cd",
         "edb3d14c-cd11-f402-d40e-d63a9ba7cb71",
         "ede25d94-7429-9b01-4f38-85589cbdd4e8",
+        "ee1d0c24-ccce-5ef0-8d69-27d470278fdf",
         "ee39328f-e34c-accd-9eb8-d6fd1a6a482c",
         "ee4c25da-d28c-e167-45b0-a141b739c24b",
         "f0eee9f3-e5f4-65c0-ee33-339fbb498ce5",
         "f19501d9-7b8a-c2e0-13ad-fb10087091dc",
         "f1c042e7-dff3-26ee-6eb4-61a99aa96b29",
+        "f1db00ae-1dc2-eedd-284c-a1ccc20826fa",
+        "f2de2883-1a3c-432f-bfe1-21bd048e4a47",
         "f2df7abb-e22f-145b-002f-c27671685352",
         "f2e250be-c5ce-257c-820d-653bc2efdf58",
         "f3233197-a46b-f9e3-e961-14bdb3065a87",
         "f34e5fca-55bf-1d04-9157-457e8ff8740e",
         "f3696e93-7177-3eb9-2fbb-0bf9d4395162",
         "f451d4b7-a55d-fb54-d893-48de1e1b8d57",
+        "f4938e8d-4b1c-4052-a801-5d51cdad96f6",
         "f6395877-c075-030d-3c33-5e5cb17d114a",
         "f6525aa8-9c02-44d6-bcb1-3549e4a502b4",
         "f7a5b786-8a84-d7ee-07e1-2392c4aeabd0",
