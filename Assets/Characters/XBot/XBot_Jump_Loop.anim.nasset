@@ -1,0 +1,20 @@
+{
+    "source": "A_XBot_Jump_Loop.fbx",
+    "skeleton": "c21f3cac-2980-fa6b-c73a-08f53c76afa8",
+    "typeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+    "instanceGuid": "4fba63ab-ba4d-4b62-4de9-29c64315abfb",
+    "f6140603-c29e-4bf9-946d-498dba6709ff": {
+        "skeleton": "c21f3cac-2980-fa6b-c73a-08f53c76afa8"
+    },
+    "data_components": [
+        {
+            "typeGuid": "ada8de9b-70b3-4e23-8cc8-60febac91165",
+            "animation": "13e68894-c286-460c-b7aa-0ae1288f77f0"
+        }
+    ],
+    "guid": "13e68894-c286-460c-b7aa-0ae1288f77f0",
+    "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+    "dependencies": [
+        "c21f3cac-2980-fa6b-c73a-08f53c76afa8"
+    ]
+}
